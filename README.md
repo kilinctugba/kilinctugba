@@ -2,7 +2,7 @@
 
 I'm currently self-teaching software development. 🤓 Instead of a reductionist approach from science, I prefer a holistic perspective to understand complex systems through my bioengineering background. I like that. 💡
 
-I'm drawn to data analytics and cloud computing. ☁️ I enjoy challenging myself with extreme sports like mountaineering ⛰️, climbing and diving 🤿. Also, you can see me, oil painting 🎨, taking photos of nature, scribbling ✍🏼 and getting lost in books 📚.
+I'm drawn to web programming, data analytics and cloud computing. ☁️ I enjoy challenging myself with extreme sports like mountaineering and climbing ⛰️. Also, you can see me, oil painting 🎨, taking photos of nature, scribbling ✍🏼 and getting lost in books 📚.
 I want meaningful things. Please feel free to contact me.
 <!--
 #### Connect with me:
